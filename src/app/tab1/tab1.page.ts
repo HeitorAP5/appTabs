@@ -38,33 +38,33 @@ export class Tab1Page {
       favorito: false
     },
     {
-    nome: 'Star Wars ep 9',
-    lancamento: '19/12/2019 (BR)',
-    duracao: '2h22m',
-    classificacao: 4,
-    cartaz: 'https://br.web.img3.acsta.net/pictures/19/12/18/16/25/0588210.jpg',
-    generos: ['Ficção Científica', 'Drama', 'Ação'],
-    pagina: '/star wars',
+    nome: 'Hustle',
+    lancamento: '03/06/2022 (BR)',
+    duracao: '1h 57m',
+    classificacao: 9,
+    cartaz: 'https://m.media-amazon.com/images/M/MV5BYjdhYTE3NjMtZjI3OC00NzVlLWFiNTUtNzQ3NDNiNTI3NDg4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg',
+    generos: ['Drama', 'Esporte'],
+    pagina: '/hustle',
     favorito: false
     },
     {
-      nome: 'Sonic 2',
-      lancamento: '07/04/2022 (BR)',
-      duracao: '2h02m',
-      classificacao: 7,
-      cartaz: 'https://br.web.img2.acsta.net/pictures/21/12/08/15/46/3923761.jpg',
-      generos: ['Comedia', 'Aventura', 'Ação'],
-      pagina: '/sonic 2',
+      nome: 'Missão Impossível - Protocolo Fantasma',
+      lancamento: '23/12/2011 (BR)',
+      duracao: '2h 13m',
+      classificacao: 8,
+      cartaz: 'https://m.media-amazon.com/images/I/81-SAlesByL._AC_SL1500_.jpg',
+      generos: ['Aventura', 'Ação'],
+      pagina: '/missaoimpossivel',
       favorito: false
       },
       {
-        nome: 'Taxi driver',
-        lancamento: '22/03/1976 (BR)',
-        duracao: '1h54m',
-        classificacao: 10,
+        nome: 'Gente Grande',
+        lancamento: '24/09/2010 (BR)',
+        duracao: '1h 42m',
+        classificacao: 8,
         cartaz: 'https://upload.wikimedia.org/wikipedia/pt/3/33/Taxi_Driver_%281976_film_poster%29.jpg',
-        generos: ['Drama', 'Ação', 'Classico'],
-        pagina: '/taxi',
+        generos: ['Comédia', 'Buddy'],
+        pagina: '/gentegrande',
         favorito: true
         }
       ];

@@ -19,43 +19,43 @@ export class Tab3Page {
 
   listaFilmes: IAtores[] = [
     {
-      nome: 'Tom Hanks ',
-      lancamento: '9 de julho de 1956',
+      nome: 'Will Smith',
+      lancamento: '25 de setembro de 1968',
       duracao: '1h50m',
-      cartaz: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg',
-      pagina: '/Tom Hanks',
+      cartaz: 'https://br.web.img2.acsta.net/pictures/17/02/08/16/50/452749.jpg',
+      pagina: '/willsmith',
       favorito: false
     },
     {
-      nome: 'Robert De Niro',
-      lancamento: '17 de agosto de 1943 ',
+      nome: 'Joe Keery',
+      lancamento: '24 de abril de 1992 ',
       duracao: '3h01m',
-      cartaz: 'https://br.web.img3.acsta.net/c_310_420/pictures/15/09/16/17/30/201281.jpg',
-      pagina: '/Robert De Niro',
+      cartaz: 'http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSxE4Jqz79wOrobvL7On3kR64gFeFbWoIRavgfcl0TPYXfBQV9QV3pEtIUNE7Ihymir',
+      pagina: '/joekeery',
       favorito: false
     },
     {
-    nome: 'Robert Pattinson',
-    lancamento: '13 de maio de 1986',
+    nome: 'Adam Sandler',
+    lancamento: '9 de setembro de 1966',
     duracao: '2h22m',
-    cartaz: 'https://br.web.img3.acsta.net/pictures/19/03/20/16/05/1007568.jpg',
-    pagina: '/Robert Pattinson',
+    cartaz: 'https://conteudo.imguol.com.br/c/entretenimento/bc/2017/05/25/adam-sandler-1495763029017_v2_450x600.jpg',
+    pagina: '/adamsandler',
     favorito: false
     },
     {
-      nome: 'Arnold Schwarzenegger',
-      lancamento: '30 de julho de 1947',
+      nome: 'Cillian Murphy',
+      lancamento: '25 de maio de 1976',
       duracao: '2h02m',
-      cartaz: 'https://www.opovo.com.br/_midias/jpg/vasti/2013/01-06/03/20130306/diversas/20130306_arnold_schwarzenegger__ator.jpg',
-      pagina: '/Arnold Schwarzenegger',
+      cartaz: 'https://br.web.img3.acsta.net/r_1280_720/pictures/17/05/24/16/35/013898.jpg',
+      pagina: '/cillianmurphy',
       favorito: false
       },
       {
-        nome: 'Chris Evans',
-        lancamento: '13 de junho de 1981',
+        nome: 'Aaron Paul',
+        lancamento: '27 de agosto de 1979',
         duracao: '1h54m',
-        cartaz: 'https://epipoca.com.br/wp-content/uploads/2021/08/chris-evans-0308.jpg',
-        pagina: '/Chris Evans',
+        cartaz: 'http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSXTO6jSNsSCMVPEVbcRzMu41ml9L-4QVm7U6wrKS9vCn4GI2_U1ey4CF-f5RnWni4e',
+        pagina: '/aaronpaul',
         favorito: true
         }
       ];
